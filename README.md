@@ -1,7 +1,7 @@
 # Imagen-classification
 This project demonstrates my skills and proficiency in image classification using deep learning techniques. The goal of this project is to classify garbage images with high accuracy. The code provided here showcases the implementation of a ResNet50 model using PyTorch and the torchvision library.
 
-##Code Structure
+## Code Structure
 The code can be divided into the following sections:
 
 Importing Dependencies: The necessary libraries and modules are imported, including torch, torchvision, and matplotlib.
