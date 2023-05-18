@@ -20,9 +20,9 @@ Model Evaluation: After training, the model is evaluated on the validation datas
 
 Image Prediction: The predict_image function is provided to make predictions on individual images. An example of a test image prediction is shown, where an image from the test dataset is randomly selected, displayed, and labeled using the trained model.
 
-##Results
+## Results
 The model achieved an accuracy of over 90% on the test dataset. It performed well on test images and correctly classified garbage items. You can experiment with additional images to further test the model's performance.
 
 Feel free to explore and modify the code to enhance the model or try it with your own dataset.
 
-For any questions or inquiries, please contact me at [email address].
+For any questions or inquiries, please contact me at [pedrimate@gmail.com].
